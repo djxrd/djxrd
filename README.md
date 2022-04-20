@@ -6,6 +6,9 @@
 def djord():
   Learning = [Networking, Sysadmin, Hacking]
   Languages = [HTML, CSS, Python, PHP, SQL]
+  
+  ...
+  In Progress
 
 ```
 
