@@ -4,7 +4,7 @@
 
 ```py
 def Me():
-  Learning = [Networking, Sysadmin, Hacking, Web]
+  Learning = [Networking, Sysadmin, Hacking]
   Languages = [HTML, CSS, Python, PHP, SQL]
 
 ```
