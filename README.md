@@ -2,6 +2,24 @@
 def Me():
   Learning = [Python, HTML, CSS, PHP]
   
-  &#x1F34E; Test
+  Test
 ```
-&#x1F34E; Test2
+
+```json
+   // Code for coloring
+   
+```
+```html
+   // Code for coloring
+   <p>
+```
+```js
+   // Code for coloring
+   const Me
+```
+```css
+   // Code for coloring
+   * {
+   background: red;
+   }
+```
