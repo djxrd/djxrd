@@ -1,4 +1,4 @@
-![caleb-barefoot-master-sword-hexel-animated2](https://user-images.githubusercontent.com/104028222/164864841-e2c287c8-af92-41df-a4ac-e56ff0a287b4.gif)
+![caleb-barefoot-master-sword-hexel-animated2(1)](https://user-images.githubusercontent.com/104028222/164865788-148d01be-38fb-4e93-b687-e172764c259a.gif)
 
 # 👤 | Me
 
